@@ -1,0 +1,16 @@
+{
+  "name": "crud-node-app",
+  "version": "1.0.0",
+  "description": "a cli app to interact with a db",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.9",
+    "uuid": "^9.0.0"
+  }
+}
